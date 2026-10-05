@@ -2,7 +2,7 @@
 
 ApplyFlow is a React + TypeScript job application tracker with a responsive dashboard, application management, analytics, and a drag-and-drop Kanban board.
 
-**Live Demo:** [applyflow-khaliv.vercel.app](https://applyflow-tau-five.vercel.app)
+**Live Demo:** [applyflow-tau-five.vercel.app](https://applyflow-tau-five.vercel.app)
 
 ## Features
 
