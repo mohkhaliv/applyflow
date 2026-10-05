@@ -9,7 +9,7 @@ ApplyFlow is a React + TypeScript job application tracker with a responsive dash
 
 ## Features
 
-- Dashboard, Applications, Kanban Board, and Analytics pages
+- Dashboard, Applications, and Kanban Board pages
 - Add, edit, delete, search, filter, and sort applications
 - Mouse/touch drag-and-drop with status changes and card reordering
 - Application status history
@@ -67,4 +67,4 @@ Each status change records a timestamped history entry, allowing interview and o
 
 ## Deployment
 
-The app is a client-side React application. When deploying to a static host, configure unknown paths to serve `index.html` so React Router routes such as `/board` and `/analytics` work on direct navigation.
+The app is a client-side React application. When deploying to a static host, configure unknown paths to serve `index.html` so React Router routes such as `/board` and `/applications` work on direct navigation.

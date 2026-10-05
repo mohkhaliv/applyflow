@@ -3,7 +3,6 @@ import { AppLayout } from './components/AppLayout';
 import { DashboardPage } from './pages/DashboardPage';
 import { ApplicationsPage } from './pages/ApplicationsPage';
 import { BoardPage } from './pages/BoardPage';
-import { AnalyticsPage } from './pages/AnalyticsPage';
 
 export default function App() {
   return (
@@ -12,7 +11,6 @@ export default function App() {
         <Route path="/" element={<DashboardPage />} />
         <Route path="/applications" element={<ApplicationsPage />} />
         <Route path="/board" element={<BoardPage />} />
-        <Route path="/analytics" element={<AnalyticsPage />} />
         <Route
           path="*"
           element={

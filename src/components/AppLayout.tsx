@@ -13,7 +13,6 @@ const navigation = [
   { path: '/', label: 'Dashboard', icon: LayoutDashboard },
   { path: '/applications', label: 'Applications', icon: BriefcaseBusiness },
   { path: '/board', label: 'Kanban Board', icon: Columns3 },
-  { path: '/analytics', label: 'Analytics', icon: ChartNoAxesCombined },
 ];
 
 export function AppLayout() {
