@@ -1,3 +1,6 @@
+<img width="938" height="500" alt="Screenshot 2026-10-05 181347" src="https://github.com/user-attachments/assets/f184d324-3602-4cfc-8152-ae813f1fc468" />
+<img width="938" height="500" alt="Screenshot 2026-10-05 181504" src="https://github.com/user-attachments/assets/c5236bc1-cf23-4042-b1f5-542238a9f344" />
+
 # ApplyFlow
 
 ApplyFlow is a React + TypeScript job application tracker with a responsive dashboard, application management, analytics, and a drag-and-drop Kanban board.
