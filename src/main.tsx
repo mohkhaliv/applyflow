@@ -6,13 +6,11 @@ import App from './App';
 import './styles.css';
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
-  <React.StrictMode>
-    <BrowserRouter
-      future={{ v7_startTransition: true, v7_relativeSplatPath: true }}
-    >
-      <ApplicationsProvider>
-        <App />
-      </ApplicationsProvider>
-    </BrowserRouter>
-  </React.StrictMode>,
+<React.StrictMode>
+  <BrowserRouter>
+    <ApplicationsProvider>
+      <App />
+    </ApplicationsProvider>
+  </BrowserRouter>
+</React.StrictMode>,
 );

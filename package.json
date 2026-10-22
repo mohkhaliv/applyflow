@@ -16,7 +16,7 @@
     "lucide-react": "0.468.0",
     "react": "18.3.1",
     "react-dom": "18.3.1",
-    "react-router-dom": "6.30.6",
+    "react-router-dom": "^7.18.4",
     "recharts": "2.15.4"
   },
   "devDependencies": {
@@ -25,6 +25,6 @@
     "@vitejs/plugin-react": "4.3.4",
     "prettier": "3.4.2",
     "typescript": "5.7.3",
-    "vite": "6.4.3"
+    "vite": "^6.4.5"
   }
 }
